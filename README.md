@@ -29,8 +29,8 @@ I will be using a significance level (alpha) of 0.05 to make our determination, 
 ## Summary
 ```
 ├── README.md                        <- The top-level README for reviewers of this project
-├── student.ipynb                    <- Jupyter notebook. Overview, Business Problem, Data Understanding.
+├── student.ipynb                    <- Jupyter notebook. Overview, Business Problem, Data Understanding.Regression.
 ├── RealEstate.pdf                   <- PDF version of project presentation
-├── data                             <- Both sourced externally and generated from code
-└── images                           <- Both sourced externally and generated from code
+├── data                             <- the database used 
+└── images                           <- sourced externally
 ```
