@@ -34,6 +34,12 @@ I will be using a significance level (alpha) of 0.05 to make our determination, 
 
 ![graph](./Regression.png)
 
+### OLS Coefficients Determination, P-Values & Model Explained
+![graph](./OLS.png)
+
+The important factors to observe in the model above are as follows, The Dependent Variable: Price. R-Squared: 83%, an important measure that compares to the baseline model, its a fitness test and with this value I'm confident that this model works. The sum of squares is divided by Total Sum Squares.
+R-Squared Coefficient determination , a "goodness of fit" of the regression model. R-squared is also called the baseline model, and in this cases it indicates almost 83% can be explained by the model.
+The F-statistic o P-Value: is the provability that. asample like this would yield the above results, and wether or not the model's veridict on the null hypthesis will consistently represent the population. Since this model yielded a p-value less than 0.05 we can reject the null hypothesis and know that this test is statistically significant
 
 ### Conclusion 
 
