@@ -24,7 +24,21 @@ Alternative hypothesis (Ha): There is a relationship between our features and ou
 
 I will be using a significance level (alpha) of 0.05 to make our determination, and will make our final recommendations accordingly.
 
+
+### Linearity of the The top 3 correlated attributes : Square Footage, Grade, and Bathrooms
+
 ![graph](./Linearity.png)
+
+
+### Regression Modeling run on Python
+
+![graph](./Regression.png)
+
+
+### Conclusion 
+
+The model that I've constructed provides understanding of the relationships of features to price. It explains more than 83% of the sales prices. It is clear that that for people wanting to buy or wanting to sell in King's County, the main factor in affecting house value is the square footage.
+
 
 ## Summary
 ```
