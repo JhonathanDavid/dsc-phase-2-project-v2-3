@@ -41,7 +41,7 @@ The important factors to observe in the model above are as follows, The Dependen
 R-Squared Coefficient determination , a "goodness of fit" of the regression model. R-squared is also called the baseline model, and in this cases it indicates almost 83% can be explained by the model.
 The F-statistic o P-Value: is the provability that. asample like this would yield the above results, and wether or not the model's veridict on the null hypthesis will consistently represent the population. Since this model yielded a p-value less than 0.05 we can reject the null hypothesis and know that this test is statistically significant
 
-### Conclusion 
+### Conclusion & Recommendations
 
 The model that I've constructed provides understanding of the relationships of features to price. It explains more than 83% of the sales prices. It is clear that that for people wanting to buy or wanting to sell in King's County, the main factor in affecting house value is the square footage.
 
