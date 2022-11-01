@@ -24,7 +24,7 @@ Alternative hypothesis (Ha): There is a relationship between our features and ou
 
 I will be using a significance level (alpha) of 0.05 to make our determination, and will make our final recommendations accordingly.
 
-![graph](./visualizations/grade.png)
+![graph](./Linearity.png)
 
 ## Summary
 ```
