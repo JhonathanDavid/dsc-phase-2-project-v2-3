@@ -55,5 +55,7 @@ The F-statistic o P-Value: is the provability that. asample like this would yiel
 ├── student.ipynb                    <- Jupyter notebook. Overview, Business Problem, Data Understanding.Regression.
 ├── RealEstate.pdf                   <- PDF version of project presentation
 ├── data                             <- the database used 
-└── images                           <- sourced externally
+└── Linearity.png                    <- image sourced externally
+└── OLS.png                          <- image sourced externally
+└── Regression.png                   <- image sourced internally from notebook
 ```
