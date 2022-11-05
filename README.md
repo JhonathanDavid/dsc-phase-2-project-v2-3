@@ -43,10 +43,10 @@ The F-statistic o P-Value: is the provability that. asample like this would yiel
 
 ### Conclusion & Recommendations
 
-People in King County who would like to buy or sell should be aware that there are attributes in their homes that contribute directly to the price of the home in this market
-People who own homes or would like to buy homes King County should know that Square Footage, Grade, and Bathrooms, are the highest and the most directly correlated to home prices
-Prices of Homes in King county are highly and mostly influenced by the Square Footage, the most important factor and highest contributor to the price of a home in King County
-The better built homes, meaning homes with higher grades, increase the price of a King County Home. So Grade level matters when selling a home in this market
+* People in King County who would like to buy or sell should be aware that there are attributes in their homes that contribute directly to the price of the home in this market
+* People who own homes or would like to buy homes King County should know that Square Footage, Grade, and Bathrooms, are the highest and the most directly correlated to home prices
+* Prices of Homes in King county are highly and mostly influenced by the Square Footage, the most important factor and highest contributor to the price of a home in King County
+* The better built homes, meaning homes with higher grades, increase the price of a King County Home. So Grade level matters when selling a home in this market
 
 
 ## Summary
